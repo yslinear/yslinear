@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/Git-Conventional%20Commits-fa6673?logo=git&logoColor=white)](https://www.conventionalcommits.org/)
 
 [![](https://img.shields.io/badge/Skill-PHP-777BB4?logo=php&logoColor=white)](https://www.conventionalcommits.org/)
-[![](https://img.shields.io/badge/Skill-Javascript-F7DF1E?logo=javaScript&logoColor=white)](https://www.conventionalcommits.org/)
+[![](https://img.shields.io/badge/Skill-JavaScript-F7DF1E?logo=javascript&logoColor=white)](https://www.conventionalcommits.org/)
 [![](https://img.shields.io/badge/Skill-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.conventionalcommits.org/)
 [![](https://img.shields.io/badge/Skill-Joomla-5091CD?logo=joomla&logoColor=white)](https://www.conventionalcommits.org/)
 
