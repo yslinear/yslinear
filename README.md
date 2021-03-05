@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/-GNU%20Privacy%20Guard-0093DD?logo=gnu-privacy-guard&logoColor=white)](https://gnupg.org/)
 [![](https://img.shields.io/badge/-Conventional%20Commits-fa6673?logo=git&logoColor=white)](https://www.conventionalcommits.org/)
 
-### Skill
+### Skilled
 
 [![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/-Vanilla%20JS-F7DF1E?logo=javascript&logoColor=white)](http://vanilla-js.com/)
