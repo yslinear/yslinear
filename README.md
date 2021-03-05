@@ -10,13 +10,19 @@
 [![](https://img.shields.io/badge/Git-Conventional%20Commits-fa6673?logo=git&logoColor=white)](https://www.conventionalcommits.org/)
 
 [![](https://img.shields.io/badge/Skill-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/Skill-JavaScript-F7DF1E?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+[![](https://img.shields.io/badge/Skill-Vanilla%20JS-F7DF1E?logo=javascript&logoColor=white)](http://vanilla-js.com/)
+[![](https://img.shields.io/badge/Skill-jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
+[![](https://img.shields.io/badge/Skill-Bootstrap-0769AD?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/Skill-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Skill-Joomla-5091CD?logo=joomla&logoColor=white)](https://www.joomla.org/)
 
 [![](https://img.shields.io/badge/Learning-Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
 [![](https://img.shields.io/badge/Learning-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![](https://img.shields.io/badge/Learning-Vuetify-1867C0?logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
+[![](https://img.shields.io/badge/Learning-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+
+[![](https://img.shields.io/badge/Community-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8970303/yslinear/)
+[![](https://img.shields.io/badge/Community-DEV%20Community-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yslinear/)
 
 [![](https://img.shields.io/badge/Game%20Console-Nintendo%20Switch-E60012?logo=nintendo-switch&logoColor=white)](https://www.nintendo.com/switch/)
 
