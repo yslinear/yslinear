@@ -13,8 +13,8 @@
 ### Git
 
 [![](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)](https://github.com/yslinear/)
-[![](https://img.shields.io/badge/-GNU%20Privacy%20Guard-0093DD?logo=gnu-privacy-guard&logoColor=white)](https://gnupg.org/)
 [![](https://img.shields.io/badge/-Conventional%20Commits-fa6673?logo=git&logoColor=white)](https://www.conventionalcommits.org/)
+[![](https://img.shields.io/badge/-GNU%20Privacy%20Guard-0093DD?logo=gnu-privacy-guard&logoColor=white)](https://gnupg.org/)
 
 ### Skill
 
