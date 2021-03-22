@@ -13,8 +13,8 @@
 
 ### Git
 
-[![](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)](https://github.com/yslinear/)
-[![](https://img.shields.io/badge/-Github%20Actions-181717?logo=github-actions&logoColor=white)](https://github.com/features/actions/)
+[![](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/yslinear/)
+[![](https://img.shields.io/badge/-GitHub%20Actions-181717?logo=github-actions&logoColor=white)](https://github.com/features/actions/)
 [![](https://img.shields.io/badge/-Conventional%20Commits-fa6673?logo=git&logoColor=white)](https://www.conventionalcommits.org/)
 [![](https://img.shields.io/badge/-GNU%20Privacy%20Guard-0093DD?logo=gnu-privacy-guard&logoColor=white)](https://gnupg.org/)
 
