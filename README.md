@@ -31,7 +31,7 @@
 ### Learning
 
 [![](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
-[![](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white)](https://laravel.com/)
+[![](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Vuetify-1867C0?logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
 [![](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
