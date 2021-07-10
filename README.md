@@ -49,7 +49,3 @@
 
 [![](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8970303/yslinear/)
 [![](https://img.shields.io/badge/-DEV%20Community-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yslinear/)
-
-### Game Console
-
-[![](https://img.shields.io/badge/-Nintendo%20Switch-E60012?logo=nintendo-switch&logoColor=white)](https://www.nintendo.com/switch/)
