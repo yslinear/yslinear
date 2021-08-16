@@ -3,6 +3,7 @@
 ### OS
 
 [![](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white)](https://www.centos.org/)
 
 ### Editor
