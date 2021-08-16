@@ -1,5 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yslinear&hide_border=true&show_icons=true&locale=en)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yslinear&hide_border=true&show_icons=true&locale=en&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yslinear&count_private=true&show_icons=true&locale=en)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yslinear&show_icons=true&locale=en&langs_count=8&layout=compact)
 
 ### OS
 
