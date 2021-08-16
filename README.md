@@ -1,4 +1,13 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yslinear&hide=stars&count_private=true&show_icons=true)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=yslinear&hide_border=true&show_icons=true&locale=en" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yslinear&hide_border=true&show_icons=true&locale=en&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ### OS
 
