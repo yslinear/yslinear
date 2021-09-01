@@ -30,18 +30,16 @@
 [![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Joomla-5091CD?logo=joomla&logoColor=white)](https://www.joomla.org/)
 
-### Learning
+### Some Experience
 
 [![](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
 [![](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Vuetify-1867C0?logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
 [![](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
-[![](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-
-### Some Experience
 
 [![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/-GitLab%20CE-FCA121?logo=gitlab&logoColor=white)](https://about.gitlab.com/install/)
 [![](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)](https://www.grafana.com/)
 [![](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/)
