@@ -39,6 +39,7 @@
 [![](https://img.shields.io/badge/-Vuetify-1867C0?logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
 [![](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
 
+[![](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)](https://www.grafana.com/)
