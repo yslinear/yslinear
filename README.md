@@ -27,7 +27,6 @@
 [![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/-Vanilla%20JS-F7DF1E?logo=javascript&logoColor=white)](http://vanilla-js.com/)
 [![](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
-[![](https://img.shields.io/badge/-Bootstrap-0769AD?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Joomla!-5091CD?logo=joomla&logoColor=white)](https://www.joomla.org/)
