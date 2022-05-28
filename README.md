@@ -17,7 +17,7 @@
 
 ### Editor
 
-[![](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-How%20I%20VSCode-292e39)](https://howivscode.com/yslinear/)
 [![](https://img.shields.io/badge/-FiraCode-eee7d6)](https://github.com/tonsky/FiraCode/)
 
