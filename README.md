@@ -49,6 +49,6 @@
 
 ### Community
 
-[![](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=leetcode&logoColor=white)](https://stackoverflow.com/users/8970303/ying-shan-lin/)
+[![](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=leetcode&logoColor=white)](https://stackoverflow.com/users/8970303/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yslinear/)
 [![](https://img.shields.io/badge/-DEV%20Community-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yslinear/)
