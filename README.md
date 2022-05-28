@@ -2,8 +2,14 @@
 ![](https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg)![](https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg)![](https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/4-productive-time.svg)
 
+### Community
 
-### OS
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yslinear/)
+[![](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8970303/)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yslinear/)
+[![](https://img.shields.io/badge/-DEV%20Community-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yslinear/)
+
+### Development Environment
 
 [![](https://img.shields.io/badge/-macOS-000000?logo=macos&logoColor=white)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
@@ -46,10 +52,3 @@
 [![](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 [![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
-
-### Community
-
-[![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yslinear/)
-[![](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8970303/)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yslinear/)
-[![](https://img.shields.io/badge/-DEV%20Community-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yslinear/)
