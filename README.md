@@ -24,7 +24,7 @@
 ### Git
 
 [![](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/yslinear/)
-[![](https://img.shields.io/badge/-GitHub%20Actions-181717?logo=github-actions&logoColor=white)](https://github.com/features/actions/)
+[![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions/)
 [![](https://img.shields.io/badge/-Conventional%20Commits-fa6673?logo=git&logoColor=white)](https://www.conventionalcommits.org/)
 [![](https://img.shields.io/badge/-GNU%20Privacy%20Guard-0093DD?logo=gnu-privacy-guard&logoColor=white)](https://gnupg.org/)
 
@@ -33,10 +33,10 @@
 
 [![](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
 [![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/-Vanilla%20JS-F7DF1E?logo=javascript&logoColor=white)](http://vanilla-js.com/)
-[![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![](https://img.shields.io/badge/-Vanilla%20JS-F7DF1E?logo=javascript&logoColor=white)](http://vanilla-js.com/)
 [![](https://img.shields.io/badge/-Joomla!-5091CD?logo=joomla&logoColor=white)](https://www.joomla.org/)
 
 ### Some Experience
