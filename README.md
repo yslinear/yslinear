@@ -1,6 +1,24 @@
-![](https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)
-![](https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg)![](https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg)![](https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/4-productive-time.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/2-most-commit-language.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/yslinear/github-profile-summary-cards/master/profile-summary-card-output/github/4-productive-time.svg">
+</picture>
 
 ### Community
 
