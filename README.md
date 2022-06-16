@@ -22,13 +22,14 @@
 
 ### Community
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/8970303.png?theme=dark">
-  <img
-    src="https://stackoverflow.com/users/flair/8970303.png" width="200"
-    alt="profile for Ying-Shan Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-    title="profile for Ying-Shan Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</picture>
+<a href="https://stackoverflow.com/users/8970303/ying-shan-lin">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/8970303.png?theme=dark">
+    <img src="https://stackoverflow.com/users/flair/8970303.png" width="200"
+      alt="profile for Ying-Shan Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
+      title="profile for Ying-Shan Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </picture>
+</a>
 
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yslinear/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yslinear/)
