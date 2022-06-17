@@ -35,12 +35,6 @@
 [![](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yslinear/)
 [![](https://img.shields.io/badge/-DEV%20Community-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yslinear/)
 
-### Development Environment
-
-[![](https://img.shields.io/badge/-macOS-000000?logo=macos&logoColor=white)](https://www.apple.com/macos/)
-[![](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white)](https://www.centos.org/)
-
 ### Editor
 
 [![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
