@@ -24,8 +24,8 @@
 
 <a href="https://stackoverflow.com/users/8970303/ying-shan-lin">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/8970303.png?theme=dark&v=0837">
-    <img src="https://stackoverflow.com/users/flair/8970303.png?v=1403" width="200"
+    <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/8970303.png?theme=dark&v=1056">
+    <img src="https://stackoverflow.com/users/flair/8970303.png?v=1056" width="200"
       alt="profile for Ying-Shan Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
       title="profile for Ying-Shan Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </picture>
