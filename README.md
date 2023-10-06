@@ -37,5 +37,4 @@
 
 [![](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
