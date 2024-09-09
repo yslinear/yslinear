@@ -1,4 +1,6 @@
-### Community
+# Profile
+
+## Community
 
 <a href="https://stackoverflow.com/users/8970303/ying-shan-lin">
   <picture>
@@ -9,32 +11,31 @@
   </picture>
 </a>
 
-[![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yslinear/)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yslinear/)
-[![](https://img.shields.io/badge/-DEV%20Community-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yslinear/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yslinear/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yslinear/)
+[![DEV Community](https://img.shields.io/badge/-DEV%20Community-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yslinear/)
 
-### Editor
+## Editor
 
-[![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/-How%20I%20VSCode-292e39)](https://howivscode.com/yslinear/)
-[![](https://img.shields.io/badge/-FiraCode-eee7d6)](https://github.com/tonsky/FiraCode/)
+[![Cursor](https://img.shields.io/badge/-Cursor-FFFFFF?logo=data:image/x-icon;base64,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AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD7AAAAewAAACQAAADMAAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAMwAAAAkAAAAAAAAAE4AAADmAAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAADmAAAATgAAAAAAAAAAAAAAAQAAAE4AAADMAAAA+wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD7AAAAzAAAAE4AAAABAAAAAAAAAAAAAAAAAAAAAAAAACQAAAB8AAAAwgAAAOUAAAD1AAAA/QAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/QAAAPUAAADlAAAAwQAAAHwAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=&logoColor=white)](https://www.cursor.com/)
+[![How I VSCode](https://img.shields.io/badge/-How%20I%20VSCode-292e39)](https://howivscode.com/yslinear/)
+[![FiraCode](https://img.shields.io/badge/-FiraCode-eee7d6)](https://github.com/tonsky/FiraCode/)
 
-### Skill
+## Skill
 
-[![](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
-[![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-Vanilla%20JS-F7DF1E?logo=javascript&logoColor=white)](http://vanilla-js.com/)
-[![](https://img.shields.io/badge/-Joomla!-5091CD?logo=joomla&logoColor=white)](https://www.joomla.org/)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Vanilla JS](https://img.shields.io/badge/-Vanilla%20JS-F7DF1E?logo=javascript&logoColor=white)](http://vanilla-js.com/)
+[![Joomla!](https://img.shields.io/badge/-Joomla!-5091CD?logo=joomla&logoColor=white)](https://www.joomla.org/)
 
-### Some Experience
+## Some Experience
 
-[![](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
-[![](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Vuetify-1867C0?logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
-[![](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
-
-[![](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
